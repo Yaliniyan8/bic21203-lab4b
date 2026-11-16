@@ -44,5 +44,7 @@ This repository contains the client-side scripting solutions for Lab #4b, demons
 
 
 ### Question 3 — jQuery DOM & Event Operations (`jquery-dom.html`)
-<img width="820" height="435" alt="image" src="https://github.com/user-attachments/assets/f8091e7e-b4e9-4531-830f-<img width="895" height="403" alt="image" src="https://github.com/user-attachments/assets/f94af216-f3f5-47bd-9522-8024a1888523" />
+<img width="820" height="435" alt="image" src="https://github.com/user-attachments/assets/a4a00797-e761-41f9-a1e6-c3d278aa0b26" />
+
+<img width="895" height="403" alt="image" src="https://github.com/user-attachments/assets/f94af216-f3f5-47bd-9522-8024a1888523" />
 
